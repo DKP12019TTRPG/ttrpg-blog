@@ -1,0 +1,38 @@
+---
+layout: default
+title: シナリオ
+---
+
+<h1>シナリオ一覧</h1>
+
+<p>これまでに制作したシナリオの一覧です。気になるものがあればぜひ遊んでみてください。</p>
+
+<h2>おすすめシナリオ</h2>
+<ul>
+  <li><a href="/scenarios/scenario-01.html">初めての殺人</a> - 初心者におすすめ！</li>
+</ul>
+
+<hr>
+
+<h2>全シナリオ</h2>
+<table class="scenario-table">
+  <thead>
+    <tr>
+      <th>タイトル</th>
+      <th>システム</th>
+      <th>ジャンル</th>
+      <th>人数</th>
+      <th>時間</th>
+      <th>難易度</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/scenarios/scenario-01.html">薬草探し</a></td>
+      <td>ソード・ワールド2.5</td>
+      <td>ウィルダネス</td>
+      <td>3～4人</td>
+      <td>1-2時間</td>
+    </tr>
+    </tbody>
+</table>
